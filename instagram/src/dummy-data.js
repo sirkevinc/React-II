@@ -1,8 +1,8 @@
 const dummyData = [
     {
         username: "philzcoffee",
-        thumbnailUrl: 'https://scontent-sjc2-1.cdninstagram.com/t51.2885-19/11201517_887808411287357_1307163552_a.jpg',
-        imageUrl: 'https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/20066915_1526002357431295_3266739979170086912_n.jpg',
+        thumbnailUrl: 'https://images.pexels.com/photos/596887/pexels-photo-596887.jpeg',
+        imageUrl: 'http://mediad.publicbroadcasting.net/p/wlrn/files/styles/medium/public/201802/FALCON-SPACEMAN_INSTAGRAM-ELON-MUSK.jpg',
         likes: 400,
         timestamp: "July 17th 2017, 12:42:40 pm",
         comments: [
@@ -22,8 +22,8 @@ const dummyData = [
     },
     {
         username: "twitch",
-        thumbnailUrl: 'https://scontent-sjc2-1.cdninstagram.com/t51.2885-19/10684037_1512272482349821_444823433_a.jpg',
-        imageUrl: 'https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/19985884_314122025700633_6705675951834923008_n.jpg',
+        thumbnailUrl: 'https://images.pexels.com/photos/596887/pexels-photo-596887.jpeg',
+        imageUrl: 'https://images.pexels.com/photos/400469/pexels-photo-400469.jpeg',
         likes: 4307,
         timestamp: "July 15th 2017, 03:12:09 pm",
         comments: [
@@ -51,8 +51,8 @@ const dummyData = [
     },
     {
         username: "playhearthstone",
-        thumbnailUrl: 'https://scontent-sjc2-1.cdninstagram.com/t51.2885-19/s150x150/13398400_140638743023210_310840336_a.jpg',
-        imageUrl: 'https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/19985681_748672068646566_4231149029783764992_n.jpg',
+        thumbnailUrl: 'https://images.pexels.com/photos/596887/pexels-photo-596887.jpeg',
+        imageUrl: 'https://images.pexels.com/photos/58599/pexels-photo-58599.jpeg',
         likes: 5306,
         timestamp: "July 14th 2017, 10:04:08 am",
         comments: [
